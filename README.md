@@ -1,25 +1,25 @@
-# Sakura Rain
+# Sakura fall
 
-LightWeight sakura falling / rain animation as a Web Component.
+LightWeight sakura rain / fall animation as a Web Component.
 
 ## Install
-npm install sakura-rain
+npm install sakura-fall
 
 ## Usage
-import "sakura-rain";
+import "sakura-fall";
 
-<sakura-rain></sakura-rain> <!-- Default is 🌸 -->  
-<sakura-rain emoji="add your custom emoji here"></sakura-rain>
+<sakura-fall></sakura-fall> <!-- Default is 🌸 -->  
+<sakura-fall emoji="add your custom emoji here"></sakura-fall>
 
 
 ## Example (React / Mern)
-import "sakura-rain";
+import "sakura-fall";
 
 function App() {
 
     return (
         <>
-            <sakura-rain sakura="❄️"/>
+            <sakura-fall sakura="❄️"/>
             <h1>Hello World</h1>
         </>
     )

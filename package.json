@@ -1,5 +1,5 @@
 {
-    "name": "sakura-rain",
+    "name": "sakura-fall",
     "version": "1.0.0",
     "description": "Lightweight sakura falling / raining animation as a web component. Default is Sakura but can add custom emoji",
     "main": "src/sakura-rain.js",

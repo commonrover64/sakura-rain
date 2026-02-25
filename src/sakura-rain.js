@@ -1,4 +1,4 @@
-class SakuraRain extends HTMLElement {
+class SakuraFall extends HTMLElement {
   constructor() {
     super();
     this.running = false;
@@ -79,4 +79,4 @@ class SakuraRain extends HTMLElement {
   }
 }
 
-customElements.define("sakura-rain", SakuraRain);
+customElements.define("sakura-fall", SakuraFall);
