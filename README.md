@@ -11,7 +11,6 @@ import "sakura-fall";
 <sakura-fall></sakura-fall> <!-- Default is 🌸 -->  
 <sakura-fall emoji="add your custom emoji here"></sakura-fall>
 
-
 ## Example (React / Mern)
 import "sakura-fall";
 
@@ -19,7 +18,7 @@ function App() {
 
     return (
         <>
-            <sakura-fall sakura="❄️"/>
+            <sakura-fall emoji="❄️"/>
             <h1>Hello World</h1>
         </>
     )
